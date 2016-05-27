@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "208426693570",
+    "project_id": "mapaplication-1322"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208426693570:android:9d742a89030fc909",
+        "android_client_info": {
+          "package_name": "com.zhanar.gcm_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPIwnryzbncxict73jV-OODrjtmzIR2bM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

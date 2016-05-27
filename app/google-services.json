@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "607124918397",
+    "project_id": "default-demo-app-50edc"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607124918397:android:f36173e948059ccb",
+        "android_client_info": {
+          "package_name": "gcm.play.android.samples.com.gcmquickstart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnaKW_-UoCIlsT9in5PcVADXDJ1Jtr8sg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
